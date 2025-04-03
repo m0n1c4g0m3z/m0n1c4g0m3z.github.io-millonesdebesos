@@ -1,12 +1,12 @@
-# 💋 Kisses Timer
+# 💋 Millones de Besos
 
-**Kisses Timer** es una obra de arte digital generativa e interactiva creada con p5.js. Esta pieza explora la noción del tiempo afectivo a través de una interfaz lúdica donde cada segundo transcurrido es celebrado como un beso.
+**Millones de Besos** es una obra de arte digital generativa e interactiva creada con p5.js. Esta pieza explora la noción del tiempo afectivo a través de una interfaz lúdica donde cada segundo transcurrido es celebrado como un beso.
 
 ### 🌐 Ver online
 Accede al sitio (una vez activado GitHub Pages):
 
 ```
-https://tu-usuario.github.io/kisses-timer/
+https://tu-usuario.github.io/millones-de-besos/
 ```
 
 ### 🧾 Archivos del proyecto
